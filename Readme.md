@@ -6,7 +6,7 @@
 
 [example Source](https://github.com/Uberi/speech_recognition/blob/master/examples/microphone_recognition.py)
 
-#사용한 라이브러
+#사용한 라이브러리
 [time zone](http://pytz.sourceforge.net/)
 
 [NLP](http://www.nltk.org/)
